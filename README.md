@@ -1,2 +1,2 @@
 # studies-hacker-rank
-Modified
+This is my code for Hackerrank.com exercises
